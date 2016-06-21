@@ -19,11 +19,11 @@ concept: Lead-210 standards
   
   
 # Project Status June 21 2016
-  *Drafting of the writing commenced - target journals: Quaternary Geochronology, Journal of Palaeolimnology, QR, QI
-  *Manual lit review is ongoing 50 records of target 100 plus lead-210 dating papers
-  *Initial GeoDeepDive search found 5000+ papers mentioning 210-lead dating - need to further examine to complement the manual lit review to contextualise how dating has been recorded
-  *Draft template for minumum reporting requirements completed (Marco and Janice) soon to be on IEDA (http://www.earthchem.org/data/templates)
-  *Still need to engage database and developers to broaden scope of paper to ensure compatibility with data-user perspectives
+  * Drafting of the writing commenced - target journals: Quaternary Geochronology, Journal of Palaeolimnology, QR, QI
+  * Manual lit review is ongoing 50 records of target 100 plus lead-210 dating papers
+  * Initial GeoDeepDive search found 5000+ papers mentioning 210-lead dating - need to further examine to complement the manual lit review to contextualise how dating has been recorded
+  * Draft template for minumum reporting requirements completed (Marco and Janice) soon to be on IEDA (http://www.earthchem.org/data/templates)
+  * Still need to engage database and developers to broaden scope of paper to ensure compatibility with data-user perspectives
   
-  thus we are open to additional co-authors to help complete the draft manuscript - please email the group above!!
+  * thus we are open to additional co-authors to help complete the draft manuscript - please email the group above!!
   
